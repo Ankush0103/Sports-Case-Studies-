@@ -1,1 +1,1 @@
-In this folder there is some case studies of statistics of famous sportspersons using pyhton.
+In this folder there is some case studies of statistics of famous sportspersons using Python.
